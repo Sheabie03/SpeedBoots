@@ -1,7 +1,7 @@
 <?php
 
 
-namespace VirVolta\ArmorEffect;
+namespace Sheabie03\ArmorEffect;
 
 use pocketmine\entity\Effect;
 use pocketmine\entity\EffectInstance;
