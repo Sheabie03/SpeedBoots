@@ -3,16 +3,4 @@ Armor Effect plugin for PocketMine-MP
 
 ## Using Plugin
 
-### Getting the config.yml of the plugin
-
-```YAML
-id instance of Armor:
-  message: "message" or null
-  effect:
-    id:
-      durability: time in seconde
-      visible: true or false particules
-    id:
-      durability: time in seconde
-      visible: true or false particules
-```
+### The armor in chainmail is transforming into armor with effects to change the effects go into resources \ config.yml
